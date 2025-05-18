@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040299
+# Name:SATHISH.B
+# Date:19.05.2025
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+![Screenshot 2025-05-14 181120](https://github.com/user-attachments/assets/ae97f9b8-7d95-4fb7-9fa8-ee2adfc04814)
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+![Screenshot 2025-05-14 180904](https://github.com/user-attachments/assets/9d1bbc0d-8a85-4c8a-a51c-11812dfd8688)
 
 # COMMUNICTION DIAGRAM:
 
@@ -68,6 +70,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
+![Screenshot 2025-05-14 181051](https://github.com/user-attachments/assets/a7f6d60c-8cd6-4e38-9575-01d8d608ecc1)
 
 # PACKAGE DIAGRAM:
 
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+![Screenshot 2025-05-14 180925](https://github.com/user-attachments/assets/7a43b404-7624-42c7-ab53-959cde5661f0)
 
 
 
@@ -98,6 +102,7 @@ Describe the steps performed in a UML use case.
 
 
 
+![Screenshot 2025-05-14 180952](https://github.com/user-attachments/assets/55e262c0-d938-42d3-8b4c-7e61cfb4e14a)
 
 
 # SEQUENCE DIAGRAM
@@ -120,6 +125,8 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+
+![Screenshot 2025-05-14 181100](https://github.com/user-attachments/assets/23956924-e753-4e24-aa0a-080b43c9368c)
 
 
 # RESULT
